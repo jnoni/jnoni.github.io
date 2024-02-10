@@ -10,7 +10,7 @@
   {{ user.bio }}
 </p>
 
-<h3><b>Nota Bene: I self-sustain. No cash reserves. I work and pay my bills, while studying. I am looking for remote work in 2024. Write to me if you're a professor, recruiter, admissions counselor, grant writer, policy researcher, run a non-profit, looking for online tutor, or simply a hustler yourself.</b></h3><br><br>
+<b>Nota Bene: I self-sustain. No cash reserves. I work and pay my bills, while studying. I am looking for remote work in 2024. Write to me if you're a professor, recruiter, admissions counselor, grant writer, policy researcher, run a non-profit, looking for online tutor, or simply a hustler yourself.</b><br><br>
 
 {% if include.metadata %}
   <div class="f4 mb-6">
@@ -28,7 +28,7 @@
         {% endfor %}
       </div>
     {% endif %}
-    {% if user.name %}
+<!--     {% if user.name %}
       <div class="{{ metadata_styles }}">
         {% octicon mark-github height:20 class:"mr-2 v-align-middle" fill:{{ icon_color }} aria-label:GitHub %}
         <a href="https://github.com/{{ user.login }}" {% if site.style == 'dark' %}class="text-white"{% endif %}>
@@ -49,7 +49,7 @@
         {% octicon location height:20 class:"mr-2 v-align-middle" fill:{{ icon_color }} aria-label:Location %}
         {{ user.location }}
       </div>
-    {% endif %}
+    {% endif %} -->
     {% if user.hireable %}
       <span title="Hire me" class="d-inline-block f5 rounded-2 text-white bg-green py-1 px-2">Available for hire</span>
     {% endif %}
