@@ -89,6 +89,31 @@ papers:
     authors: Sahana Ramnath, Amrita Saha, Soumen Chakrabarti, Mitesh M. Khapra
     location: LINGIR workshop, ICCV 2019 (Best Paper Award)
 
+  - name: "Are Machine Rationales (Not) Useful to Humans? Measuring and Improving Human Utility of Free-Text Rationales"
+    web_url: https://arxiv.org/abs/2305.07095
+    authors: Brihi Joshi, Ziyi Liu, Sahana Ramnath, Aaron Chan, Zhewei Tong, Shaoliang Nie, Qifan Wang, Yejin Choi, Xiang Ren
+    location: ACL 2023
+
+  - name: "HintedBT: Augmenting Back-Translation with Quality and Transliteration Hints"
+    web_url: https://aclanthology.org/2021.emnlp-main.129
+    authors: Sahana Ramnath, Melvin Johnson, Abhirut Gupta, Aravindan Raghuveer
+    location: EMNLP 2021
+
+  - name: "A Framework for Rationale Extraction for Deep QA models"
+    web_url: https://arxiv.org/abs/2110.04620
+    authors: Sahana Ramnath, Preksha Nema, Deep Sahni, Mitesh M. Khapra
+    location: arXiv preprint 2021
+
+  - name: "Towards Interpreting BERT for Reading Comprehension Based QA"
+    web_url: https://aclanthology.org/2020.emnlp-main.261/
+    authors: Sahana Ramnath, Preksha Nema, Deep Sahni, Mitesh M. Khapra
+    location: EMNLP 2020
+
+  - name: "Scene Graph based Image Retrieval–A case study on the CLEVR Dataset"
+    web_url: https://arxiv.org/abs/1911.00850
+    authors: Sahana Ramnath, Amrita Saha, Soumen Chakrabarti, Mitesh M. Khapra
+    location: LINGIR workshop, ICCV 2019 (Best Paper Award)
+
 # papers2:
 #   - name: "Community1"
 #     authors: Position1
