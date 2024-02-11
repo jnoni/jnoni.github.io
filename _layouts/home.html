@@ -18,6 +18,10 @@
       {% include priorpositions.html %}
     </div>
 
+    <div class="my-6">
+        {% include thoughts.html %}
+    </div>
+
     {% if site.papers %}
       <div class="my-6">
         {% include papers.html %}
@@ -34,11 +38,11 @@
       </div>
     {% endif %} -->
 
-    {% unless posts_total == 0 %}
+<!--     {% unless posts_total == 0 %}
       <div class="my-6">
         {% include thoughts.html %}
       </div>
-    {% endunless %}
+    {% endunless %} -->
   </div>
 {% else %}
   <div class="d-md-flex min-height-full {% unless site.style == 'dark' %}border-md-bottom{% endunless %}">
