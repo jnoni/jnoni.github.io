@@ -92,18 +92,23 @@ papers:
 papers2:
   - name: "Community1"
     authors: Position1
+    description: yayayay1
 
   - name: "Community2"
     authors: Position2
+    description: yayayay2
 
   - name: "Community3"
     authors: Position3
+    description: yayayay3
 
   - name: "Community4"
     authors: Position4
+    description: yayayay4
 
   - name: "Community5"
     authors: Position5
+    description: yayayay5
 
 introduction:
 
