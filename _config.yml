@@ -145,8 +145,8 @@ misc:
     location: 
 
   - name: "My approach to writing research and scholarship proposals"
-    authors: Coming Soon!
-    location: (Bonus: How to find your career sponsor)
+    authors: (Bonus: How to find your career sponsor)
+    location: Coming Soon!
 
   - name: "Scholarship, Fellowship, Referral Database"
     authors: Digging from my years of archival documents and reserves. If I get time, I might put them in an AirTable for easy filtering and scheduling.
