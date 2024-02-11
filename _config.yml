@@ -119,8 +119,8 @@ misc:
     location: 
 
   - name: "A leap of Career"
-    authors: Things to take care of while considering making career switches, evaluating options, finding the right support system, finding the person-door to that new field, all while leveraging the previous career. Some learnings from the two coveted fellowships I received (UNESCO and Stanford) both of which are poles apart and how I tried to interdiscipline the two.
-    location: Coming Soon!
+    authors: Coming Soon!
+    location: Things to take care of while considering making career switches, evaluating options, finding the right support system, finding the person-door to that new field, all while leveraging the previous career. Some learnings from the two coveted fellowships I received (UNESCO and Stanford) both of which are poles apart and how I tried to interdiscipline the two.
 
   - name: "Big-Tech job interviewing 101 - Deflating that Hype"
     authors: Coming Soon!
@@ -153,16 +153,16 @@ misc:
     location: Coming Soon!
 
   - name: "Scholarship, Fellowship, Referral Database"
-    authors: Digging from my years of archival documents and reserves. If I get time, I might put them in an AirTable for easy filtering and scheduling.
-    location: Coming Soon!
+    authors: Coming Soon!
+    location: Digging from my years of archival documents and reserves. If I get time, I might put them in an AirTable for easy filtering and scheduling.
 
   - name: "RTC and I"
-    authors: How RTC rewrote my career-code for real, how its people uplifted me, some even becoming my closest friends. Some lessons from last 6 years of RTC'ing and build a global network.
-    location: Coming Soon!
+    authors: Coming Soon!
+    location: How RTC rewrote my career-code for real, how its people uplifted me, some even becoming my closest friends. Some lessons from last 6 years of RTC'ing and build a global network.
 
   - name: "Ditching Leetcode"
-    authors: How to prepare for tech interviews old-school style. With Pen and Paper.
-    location: Coming Soon!
+    authors: Coming Soon! 
+    location: How to prepare for tech interviews old-school style. With Pen and Paper. Leetcode is a billion dollar mistake. Negotiate for a better hiring experience. Advocate for pair-programming and active discussion based interviews.
 
 introduction:
 
