@@ -22,8 +22,8 @@ And hence began our official journey with RGSoC, and while currently working on 
 > *Footprints, on the sands of time” — H.W. Longfellow*
 
 Footprints, is what we wish to leave behind. :D 
- <img src="img/team%20pic.png" class="img-responsive" alt=""> </div>
- ![Alt Text](https://github.com/Rupal-IIITD/Rupal-IIITD.github.io/blob/master/img/team%20pic.png)
+ <img src="data/team%20pic.png" class="img-responsive" alt=""> </div>
+ ![Alt Text](https://github.com/jnoni/jnoni.github.io/blob/master/_data/team%20pic.png)
   <div class="image-credits">Team Sectumsempra - Rupal (left) and Avneet (right) (source: Avneet's phone camera - Moto G4 Plus)</div>
 
 ## The scholars
