@@ -69,10 +69,10 @@ papers:
     authors: Mentor and Program Advisor
     location: I am helping high school students who had to flee Ukraine post the Russian invasion find educational opportunities and funding in their new country of refuge, new school, and get selected for top CS programs in the West. Some of my mentees recently got acceptances from University of Cambridge, British Columbia, University of Toronto. Currently helping their organisers to restructure the program to achieve better results and build a stronger community.
 
-  - name: "HintedBT: Augmenting Back-Translation with Quality and Transliteration Hints"
-    web_url: https://aclanthology.org/2021.emnlp-main.129
-    authors: Sahana Ramnath, Melvin Johnson, Abhirut Gupta, Aravindan Raghuveer
-    location: EMNLP 2021
+  - name: "Indraprastha Institute of Information Technology, Delhi"
+    web_url: https://iiitd.ac.in/
+    authors: Academic Mentor and Community Counsellor
+    location: Helped students make the most of their undergrad program, get the right research opportunities, graded papers, conducted repeat tutorials, offered office hours, assisted student-led projects, helped streamline the course structure to improve student learning. Coordinated summer course logistics, project infrastructure, and culture. Taught to design, analyze, and critique applications of data structures and algorithms in the areas of science, politics, and justice.
 
   - name: "A Framework for Rationale Extraction for Deep QA models"
     web_url: https://arxiv.org/abs/2110.04620
@@ -113,6 +113,11 @@ papers:
     web_url: https://arxiv.org/abs/1911.00850
     authors: Sahana Ramnath, Amrita Saha, Soumen Chakrabarti, Mitesh M. Khapra
     location: LINGIR workshop, ICCV 2019 (Best Paper Award)
+    
+  - name: "Testimonials from some of my amazing mentees"
+    authors: Coming Soon!
+    location: 
+
 
 # papers2:
 #   - name: "Community1"
