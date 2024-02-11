@@ -69,16 +69,6 @@ papers:
     authors: Mentor and Program Advisor
     location: I am helping high school students who had to flee Ukraine post the Russian invasion find educational opportunities and funding in their new country of refuge, new school, and get selected for top CS programs in the West. Some of my mentees recently got acceptances from University of Cambridge, British Columbia, University of Toronto. Currently helping their organisers to restructure the program to achieve better results and build a stronger community.
 
-  - name: "Indraprastha Institute of Information Technology, Delhi"
-    web_url: https://iiitd.ac.in/
-    authors: Academic Mentor and Community Counsellor
-    location: Helped students make the most of their undergrad program, get the right research opportunities, graded papers, conducted repeat tutorials, offered office hours, assisted student-led projects, helped streamline the course structure to improve student learning. Coordinated summer course logistics, project infrastructure, and culture. Taught to design, analyze, and critique applications of data structures and algorithms in the areas of science, politics, and justice.
-
-  - name: "Women in Tech IIITD"
-    web_url: https://www.linkedin.com/company/witiiitd/about/
-    authors: Community Director, Opportunity Lead, Mentor
-    location: Spearheaded the campus community, telling women’s stories to the world, mentoring one-on-one. I rose the community to >5k members from universities PAN India. Invested in belief capital, resources, interview prep for collegiate women, profile polishing, interview grooming.
-
   - name: "Rewriting the Code"
     web_url: https://rewritingthecode.org/
     authors: Advisory Board Member, Mentor, Educator
@@ -92,6 +82,16 @@ papers:
   - name: "Helping Hands NGO - Govt. Of India"
     authors: School Teacher
     location: Taught at RPVV Lajpat Nagar, mentored students from underprivileged backgrounds, helped build foundations in Maths-Science, explore beyond classroom curriculum. Volunteered for the Project Roshni to gather, manage, redistribute funds and scholarships and donate books to underprivileged students.
+
+  - name: "Indraprastha Institute of Information Technology, Delhi"
+    web_url: https://iiitd.ac.in/
+    authors: Academic Mentor and Community Counsellor
+    location: Helped students make the most of their undergrad program, get the right research opportunities, graded papers, conducted repeat tutorials, offered office hours, assisted student-led projects, helped streamline the course structure to improve student learning. Coordinated summer course logistics, project infrastructure, and culture. Taught to design, analyze, and critique applications of data structures and algorithms in the areas of science, politics, and justice.
+
+  - name: "Women in Tech IIITD"
+    web_url: https://www.linkedin.com/company/witiiitd/about/
+    authors: Community Director, Opportunity Lead, Mentor
+    location: Spearheaded the campus community, telling women’s stories to the world, mentoring one-on-one. I rose the community to >5k members from universities PAN India. Invested in belief capital, resources, interview prep for collegiate women, profile polishing, interview grooming.
 
   - name: "Enactus IIITD"
     web_url: https://www.linkedin.com/company/enactus-iiitd/?originalSubdomain=in
