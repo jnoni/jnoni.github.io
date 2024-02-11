@@ -1,5 +1,6 @@
 <body style="background-color:LightGray;">
-<!-- <div class="paper"><div class="color-overlay"></div></div> -->
+
+{% include header.html %}
 
 {% if site.layout == 'stacked' %}
   <div class="container-lg py-6 p-responsive text-center">
@@ -12,10 +13,6 @@
     <div class="my-6">
       {% include introduction.html %}
     </div>
-
-     <div class="my-6">
-        {% include thoughts.html %}
-      </div>
 
     {% if site.papers %}
       <div class="my-6">
