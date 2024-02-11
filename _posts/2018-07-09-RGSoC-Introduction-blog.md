@@ -6,6 +6,8 @@ bigimg: /img/path.jpg
 tags: [open-source, internship]
 ---
 
+Original blog on [**RGSoC website.**](https://railsgirlssummerofcode.org/blog/2018-10-29-team-sectumsempra)
+
 ## The Beginning: How delayed rewards brought us extra happiness!
 After a thorough application process, a long wait and an interview, we thought we might just be able to make it through, and were eagerly waiting for that one “Welcome to RGSoC” email. In time, an email popped up in our feed which, lured us into thinking we emerged victoriously,  but Alas! When the first round of scholars was announced, we were heart-broken that we didn't make the cut. However, the same email also stated that we were waitlisted candidates, giving us a glimmer of hope. With our fingers crossed, we wished for the best! Almost after another month long wait, we were no less than flabbergasted, when we saw an email from RGSoC, quietly sitting in our inbox, giving us the much awaited news - We were officially in! And we couldn’t contain our excitement thereafter!
 This reminds us of the famous quote from the *Harry Potter series*,
