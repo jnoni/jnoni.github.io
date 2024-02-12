@@ -2,9 +2,10 @@
   <div class="d-flex flex-justify-between flex-items-start mb-1">
     <h1 class="f4 lh-condensed mb-1">
       <a href="{{ site.baseurl }}{{ post.url }}">
-        {{ post.title }}
+        <i>{{ post.title }}</i>i>
       </a>
     </h1>
   </div>
+  <p class="f5 text-gray text-center mb-0 mt-1">{{ post.subtitle }}</p>
   <div class="text-gray mb-2 ws-normal">{{ post.date | date: "%b %d, %Y"}}</div>
 </div>
