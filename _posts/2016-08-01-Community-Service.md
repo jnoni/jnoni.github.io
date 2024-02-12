@@ -8,48 +8,19 @@ tags: [community service, volunteer]
 
 # My experience as a volunteer at National Campaign on Dalit Human Rights
 
-I have been involved with the NCDHR, an NGO, which works towards eliminating the discrimination based on caste. I volunteered for the teaching team for one and a half months. I taught primary and secondary school kids (from slums, primarily) the basic mathematics and computers. During this period, I was exposed to a whole new world, culture and perspectives.
+Coming from an abusive home, I spent my childhood being bullied for being a dark skinned fat girl. I was constantly being told that I didn't belong. Having to grow up feeling so ‘othered’ in my own community fostered anger in me. I saw power in turning victimhood into vindication, so I took it and ran with it. However, with time, I didn’t let that become the story of my life. I channeled that alienation as the motivation to fuel my success and uplift others like me. When I was a CS major, I’d take keen interest in other classes: economics, business, literature, law and policy. In this pursuit, I volunteered to run an after-school program at the Children’s Aid Cell at National Campaign on Dalit Human Rights (NCDHR), an NGO in India that works towards eliminating discrimination based on race and caste. I taught primary and secondary school kids (from slums, primarily) the basic mathematics and computers. During this period, I was exposed to a whole new world, culture and perspectives.
 
-In Seelampur slum, we went from doors to doors, talked with girls and their mothers, encouraged them to send their girls to our classrooms and be a part of our movement. And, I can tell you, around **45% of the women** responded literally like this, 
+A lot of these kids came from unstable homes. I knew how books gave me a much needed escape, a safer parallel universe. Hence, I got permission to start a  **LunchnLearn** initiative as a part of the **Economic Rights team** and formed a small study group.
 
-_“I wish a better life for her. I wish my girl to be educated, self-sufficient and stand up for herself. I don’t want her to end up like me.”_
+I hung up flyers everywhere. I promised every kid who joined would get free food and T-shirts. 52 kids showed up to the first gathering. It was a bit chaotic. By the time for the second narration, 22 came back. 
 
-And, bingo! We could get in the first **25 girls** into our program.
+**All I did was create a safe space for them to learn, experiment, fail, and try again**. 
 
-So, all we did was to **create a space**. We created a **safe environment for those girls to learn, experiment, fail, and try again**. We taught them **mathematics, logic, computers, and fundamental communication skills**.
+We finally caught a rhythm. I knew exactly what I wanted for my students. We were a diverse group of creative messy change-makers, noisemakers, go-getters. To help them learn communication and compassion, we volunteered for hosting camps for the disabled people, delivered essential supplies to rural families, and offered to take elderly to the hospital and arranged caretakers for them.
 
-**Positivity is contagious**. All it took me to make this program a success was **thoughtfulness** with a twist of trust. Everytime a student came up to me with her doubts or confusions, this is how our conversation used to go like:
-		
-“Didi, I have been trying to solve this math-homework problem since last night. I just can’t seem to get it,” she said confusedly.
+Most of the girls came from very poor families with fathers working as seasonal laborers and mothers as housemaids. They aspired to do a respectable job to earn some money to serve their families. I helped them​ unlearn ​the oppressive idea that girls are only meant to become housewives, a sad reality of Indian society. I tried to instill confidence and self-respect within them while teaching them skills like active communication, interviewing, grooming, sanitation and menstrual hygiene. 40% of the girls in the program got part-time jobs at the end of the program.
 
-“Okay, let’s try it together then.”
-	
-We discussed the problem and she got hold of the concept.
-
-Still doubtful, she added, “I knew this was a very basic question, nothing twisted, I wonder how was I not able to solve it? All the other girls did it without any hint. I sometimes feel that I lack the brain to understand mathematics fully. I feel, there’s no point into spending time into something which I anyway won’t be excelling in.”
-
-“Well, I think I got the main problem here.”
-
-“And what is it?” her curious self asked.
-
-“Self-doubt. And, the moment you throw this parasite away, you’ll do great. Trust me.”
-
-“Really?”
-		
-“Yes Fatima, you can very well do it. Sometimes, it’s okay to fail. It happens to everybody, has happened to me innumerable times. But, you gotta keep going. It’s no rocket science, and you’re perfectly capable to understand such concepts. And, I believe in you, I know you’ll be good.”
-
-“You really think so, didi?”
-
-“I know so,” I assured her.
-	
-And, it used to work like magic. Their energy levels and output actually shot up.
-
-When I sat and talked to those girls, **I could see potential, intelligence, passion, commitment, focus, and possibly, the great leaders of future. It just needed someone to unlock these****.
-
-It’s not enough to say that our India is a multicultural and multilingual country which has produced great mathematicians, artists, revolutionaries, and CEO’s, when our girls are totally out there, tethered, and no hope, or seemingly no hope. If we really wish to change the world around, **we need to be brave enough to care**. Above all, care for those who go unnoticed.
-
-**One step, one act of help and kindness is all it takes. Believe me**.
-
+This experience set a tone for the rest of my life. It gave me a purpose. I pledged to include people who were left out, advocate for them, and bring to them the resources and privileges I have.
 
 Here’s the certificate of my work at the ngo:
 
