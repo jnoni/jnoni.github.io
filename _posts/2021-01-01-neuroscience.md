@@ -83,7 +83,7 @@ Once a trial is finished, participant gives answers to the following three respo
 As alpha suppression is more evident in the same direction as compared to opposite and perpendicular, attention is acting where it is actually helping in integrating the two motions which is leading to the better perception of T2. Although the results are not strictly conclusive yet, they provided us a direction to go ahead with, a trend that’s worth noting and hinting towards our hypothesis.
 
 ## Applications
-I can envision this study having important applications in treating Dementia and neurological disorders, among others.
+I can envision this study having important applications in designing therapeutic treatments for Dementia and neurological disorders, among others.
 
 ## Acknowledgements
 I’d like to sincerely thank Prof. Sonia Ray for guiding me throughout the work. Grateful to the participants who lent us their time for helping with the data collection. I thank Prof. Mrinmoy Chakrabarty and Prof. Anubha Gupta for their valuable feedback and evaluation.
