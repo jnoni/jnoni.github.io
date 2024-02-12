@@ -28,10 +28,8 @@ Therefore, our research questions are:
 
 To provide an application for navigation in Delhi based on safety.
 
-![Crime Image](/jnoni.github.io/docs/assets/crime.jpg)
-
-<img src="crime.jpg" class="img-responsive" alt=""></div>
- ![Alt Text](https://github.com/jnoni/jnoni.github.io/blob/master/_posts/crime.jpg)
+<img src="/docs/assets/crime.jpg" class="img-responsive" alt=""></div>
+ ![Alt Text](https://github.com/jnoni/jnoni.github.io/docs/assets/crime.jpg)
   
 ## Design Process:
 We first conducted contextual inquiries to find out what needs people will have from an app like ours i.e what their specific security concerns are, what they would like to know before going to an area and how they choose routes for travel. Then we went through multiple iterations of making prototypes and conducting task analyses to make our app progressively easier and more intuitive to use.
