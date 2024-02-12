@@ -1,6 +1,6 @@
 ---
 layout: post
-title: An analytical review to explore the latest research trends in spamming and anti-spamming domains
+title: An Analytical Review to Explore the Latest Research Trends in Spamming and Anti-Spamming Domains
 subtitle: My publication as a first-author.
 bigimg: /img/path.jpg
 tags: [computational science, publication, IGDTUW]
