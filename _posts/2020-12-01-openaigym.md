@@ -32,4 +32,4 @@ In Reinforcement Learning algorithms, we try to match an input to an action to m
 - Deep Q Networks show good performance in a large search spaces.
 - Deep Q learning requires good amount of training before it can perform nicely enough.
 
-Detailed Report and Results: https://drive.google.com/file/d/1KkbN8mDrvb4p-FKLreIxkwTmCQzP3Tqr/view?usp=sharing
+[Detailed Report and Results](https://drive.google.com/file/d/1KkbN8mDrvb4p-FKLreIxkwTmCQzP3Tqr/view?usp=sharing)
