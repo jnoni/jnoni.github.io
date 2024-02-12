@@ -28,7 +28,7 @@ Therefore, our research questions are:
 
 To provide an application for navigation in Delhi based on safety.
 
-<img src="./_data/crime.jpg" class="img-responsive" alt="lasagna">
+<img src="./_data/crime.jpg" class="img-responsive" alt=""></div>
  ![Alt Text](https://github.com/jnoni/jnoni.github.io/blob/master/_data/crime.jpg)
   
 ## Design Process:
