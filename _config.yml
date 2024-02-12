@@ -124,6 +124,61 @@ misc:
     authors: There can be no reconciliation and healing without being honest about the past. 
     location: How Colonial Opressors and Allied Powers most literally rewrote and whitewashed history, leaving the future generations disoriented and uprooted. Drawing inspiration from Faiz Ahmed Faiz’s iconic poem ‘Hum Dekhenge’, I call out the oppressors of every age, ideology and society. I cover themes such as religious segregation, India's colonial struggle, the history of genocide behind America's famous holidays, Churchill and his war crimes, and much more.
 
+  - name: "Nuclear Proliferation and AI Governance"
+    web_url: https://rupaljaincs.github.io/2024/02/11/AINuclear/
+    authors: By your truly! 
+    location: Having recently watched Nolan’s Oppenheimer, naturally, I have to address the lessons that the history of Nuclear Arms Race gives us for AI. Nuclear weapons are analogous to AI in many ways, so this period may hold lessons for AI governance.
+
+  - name: "The One-Way Train to Doomsville"
+    web_url: https://rupaljaincs.github.io/2024/01/05/AIgovIntro/
+    authors: AI Governance Know-How 
+    location: How I accedentally encountered the not so perilling Perils of AI. Call for better Governance and How. Who all have the skin in the game. What we can learn from Animal Intelligence? Accident, Misuse, Structural Risks and deconstructing other jargons like 'AGI'.
+
+  - name: "Colonialism and Democratization of AI Governance"
+    web_url: https://rupaljaincs.github.io/2024/01/05/AIDemocratise/
+    authors: How disproportionately AI impacts former colonial powers vs colonised nations, parallels from Nuclear Regime, Call for inclusion of the Global South, and Public Input into AI.  
+    location: For AI governance that goes beyond borders and is ethical in the truest sense, it is important that it includes voices of all nations and races. To secure their committed participation, it is important to include them diplomatically.
+
+  - name: "Stock Market Investments and AI Research and Development"
+    web_url: https://rupaljaincs.github.io/2024/02/01/stockmarket/
+    authors: A tiny attempt 
+    location: To what extent does high tech development, including AI, have similar dynamics to financial bubbles
+
+  - name: "Nanotechnology, BioTechnology, Space for AI"
+    web_url: https://rupaljaincs.github.io/2024/01/30/differentfields/
+    authors: Exactly why I keep emphasizing on the need for multidisciplinary collaborations.
+    location: Lessons that other scientific fields hold for AI Governance.
+
+  - name: "Policy Instruments and Self-Governance Model"
+    web_url: https://rupaljaincs.github.io/2024/01/26/policyinstruments/
+    authors: Building reliable AI safety cases and some traditional methods of governance to learn from
+    location: Some of the most common policy instruments available to governments and society that could aid AI governance, preemptive and retributive.
+
+  - name: "What the World Can Learn from China"
+    web_url: https://rupaljaincs.github.io/2024/01/21/AIChina/
+    authors: Pattern Recognition 
+    location: Lessons for AI governance don't have to only be informed by AI and AI failures, it can come from policy making patterns of different nations from contexts entirely different from AI. As someone most enthusiastic about patterns in geopolitics, I believe we can learn a lot about agile policymaking and governance from China.
+
+  - name: "Reinforcement Learning for AI"
+    web_url: https://rupaljaincs.github.io/2024/01/11/AIRL/
+    authors: Turning Recursive AI on its head, using Reinforcement Learning as an approach to attain some semblance of ethicality in AI.
+    location: If AI systems are so great at learning from the past, why not nudge it just enough to unlearn biases too. Perhaps, we can incentivize its truthfulness. Good old reward system
+
+  - name: "Call for Increased Collaboration Between Public and Private Sector for Better AI Governance"
+    web_url: https://rupaljaincs.github.io/2024/01/10/AIpublicprivate/
+    authors: Essntially, private sector is good at innovation, with public watchdogs holding them accountable. Works.
+    location: Connecting the private sector in AI with the public sector who are concerned with policy making and AI regulatory bodies promises preservation of societal values in AI governance.
+
+  - name: "How can you contribute in AI Governance"
+    web_url: https://rupaljaincs.github.io/2023/12/04/workinAIGov/
+    authors: Idea Doc 
+    location: Some streams of work that AI Governance and policymaking constitutes.
+
+  - name: "Fuzzy Logic"
+    web_url: https://rupaljaincs.github.io/2023/07/07/fuzzylogic/
+    authors: Studying Impact of Noise Pollution on Public Health using Fuzzy Techniques. 
+    location: Developing techniques to study health issues using fuzzy logic is of greater interest to me due to its flexible nature and proximity to real world applications. Notion of fuzzy sets, as opposed to crisp binary sets, is able to closely model the human cognition and thinking process.
+
   - name: "The Ethics Of Whistleblowing"
     web_url: https://drive.google.com/file/d/1oI-R5bq8m_8nO-6IR2CQnXyC1Ywgng25/view
     authors: The ethical dilemma of conflicting loyalties and a conflict between personal and organisational values.
