@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Bware - A safety compass and Imperative for Travellers in Delhi!
+title: Bware - A Safety Compass and Imperative for Travellers in Delhi!
 subtitle: Human Centered Design
 bigimg: /img/path.jpg
 tags: [open-source, internship]
