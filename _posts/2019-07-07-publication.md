@@ -32,7 +32,7 @@ Needless to say, attackers have been successful in their mendacious attempts not
 
 Through the survey presented in this paper, it can be concluded that web spam has been/is becoming one of the most severe issues concerning the internet. Although various solutions have been proposed by the researchers across the globe, this problem doesn’t seem to converge. Instead, the attackers become successful most of the times in fooling the users in some or the other manner. Apparently, this problem will continue to exist at some or the other scale with the ever-increasing usage of internet. And this should be the prime motivation for us to contribute towards this domain.
 
-Full Paper can be accessed for free here: https://drive.google.com/file/d/1Z-guczW5rAoqwvxR0m6alpBzevaaQKVv/view?pli=1
+Full Paper can be accessed for free [here](https://drive.google.com/file/d/1Z-guczW5rAoqwvxR0m6alpBzevaaQKVv/view?pli=1)
 
 
 
