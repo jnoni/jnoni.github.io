@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Bware - A comparative study of Reinforcement Learning techniques
+title: A comparative study of Reinforcement Learning techniques
 subtitle: Done over multiple OpenAI Gym environments
 bigimg: /img/path.jpg
 tags: [Reinforcement Learning, Q learning, Pacman, Deep Q Network]
