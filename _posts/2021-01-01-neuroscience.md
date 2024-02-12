@@ -20,7 +20,7 @@ Since in this paper, we analyse signals coming from different parts of the brain
 - **Temporal Lobe**: It is associated with processing sensory input (auditory or written speech) to understand meanings using visual memories, language and emotional association.
 - **Frontal Lobe**: Involved in decision making, planning, and conscious thoughts. Example: voluntary movements of all of our limbs and eyes.
 
-We took Raymond’s “**_Temporary suppression of visual processing in an RSVP task: An attentional blink_**?” as our base paper. 
+Our base paper: Raymond, J. E., Shapiro, K. L., & Arnell, K. M. (1992). **_Temporary suppression of visual processing in an RSVP task: An attentional blink_?** Journal of experimental psychology: Human perception and performance, 18(3), 849. Chicago
 
 ## Procedure: 
 For Dual task, the subject was asked to identify a distinctively black coloured letter embedded in a stream of white letters and also to respond to the absence/presence of an ‘X’, a simple and fully specified probe. In control condition i.e the single task, no target detection was asked, only to identify an X, if present.
