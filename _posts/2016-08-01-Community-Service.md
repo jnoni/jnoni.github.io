@@ -21,7 +21,3 @@ We finally caught a rhythm. I knew exactly what I wanted for my students. We wer
 Most of the girls came from very poor families with fathers working as seasonal laborers and mothers as housemaids. They aspired to do a respectable job to earn some money to serve their families. I helped them​ unlearn ​the oppressive idea that girls are only meant to become housewives, a sad reality of Indian society. I tried to instill confidence and self-respect within them while teaching them skills like active communication, interviewing, grooming, sanitation and menstrual hygiene. 40% of the girls in the program got part-time jobs at the end of the program.
 
 This experience set a tone for the rest of my life. It gave me a purpose. I pledged to include people who were left out, advocate for them, and bring to them the resources and privileges I have.
-
-Here’s the certificate of my work at the ngo:
-
-![alt text](https://github.com/Rupal-IIITD/Rupal-IIITD.github.io/blob/master/_posts/CW_certificate.jpg)
