@@ -1,7 +1,7 @@
 <body style="background-color:OliveDrab;">
 
 {% if topic.web_url %}
-  <a href="{{ topic.web_url }}" class="github-component position-relative height-full no-underline d-flex flex-column flex-justify-center text-center border border-pink-light rounded-1 bg-pink p-5">
+  <a href="{{ topic.web_url }}" class="github-component position-relative hover-grow height-full no-underline d-flex flex-column flex-justify-center text-center border border-pink-light rounded-1 bg-pink p-5">
     <p class="f3 lh-condensed text-center link-blue-dark mb-0 mt-1">{{ topic.name }}</p>
     {% if topic.description %}
       <p class="f5 text-gray text-center mb-0 mt-1">{{ topic.description }}</p>
@@ -14,7 +14,7 @@
     {% endif %}
   </a>
 {% else %}
-  <div class="github-component position-relative height-full flex-justify-center text-center border border-gray-light rounded-1 bg-pink p-5">
+  <div class="github-component position-relative height-full no-underline d-flex flex-column flex-justify-center text-center border border-gray-light rounded-1 bg-pink p-5">
     <p class="f3 lh-condensed text-center mb-0 mt-1">{{ topic.name }}</p>
     {% if topic.description %}
       <p class="f5 text-gray text-center mb-0 mt-1">{{ topic.description }}</p>
