@@ -129,10 +129,10 @@ misc:
   #   authors: The ethical dilemma of conflicting loyalties and a conflict between personal and organisational values.
   #   location: For this article, we looked at the Peter Jubb’s paper titled 'Whistleblowing: A Restrictive Definition and Interpretation' published in Springer 1999. It discusses about what are the different, often overlooked, aspects of whistleblowing and why it is essential to have an ethical focus on it.
 
-  - name: "Animal Rights"
-    web_url: https://drive.google.com/file/d/1i7o5guawO0TTWgKLzC41wGnc7mezoBaU/view
-    authors: "Indifference is more dangerous than anger and hatred" - Elie Wiesel, a Noble laureate.
-    location: Our indifference to an animal’s pain, a being that is habituated different from us, says an awful lot about our species. The movement for animal liberation is an ask for extending our most basic human decency to animals. In his 1975 account, Animal Liberation: A New Ethics for Our Treatment of Animals, Singer makes an appeal against speciesism, thus marking a historic shift in our perception of morality and its boundaries that too often fail to expand beyond homo sapiens, the 'cognitively superior' being. This founding philosophical work by Peter Singer put the discourse on animal ethics on the global map.
+  # - name: "Animal Rights"
+  #   web_url: https://drive.google.com/file/d/1i7o5guawO0TTWgKLzC41wGnc7mezoBaU/view
+  #   authors: "Indifference is more dangerous than anger and hatred" - Elie Wiesel, a Noble laureate.
+  #   location: Our indifference to an animal’s pain, a being that is habituated different from us, says an awful lot about our species. The movement for animal liberation is an ask for extending our most basic human decency to animals. In his 1975 account, Animal Liberation: A New Ethics for Our Treatment of Animals, Singer makes an appeal against speciesism, thus marking a historic shift in our perception of morality and its boundaries that too often fail to expand beyond homo sapiens, the 'cognitively superior' being. This founding philosophical work by Peter Singer put the discourse on animal ethics on the global map.
   
   - name: "Fundamental Human Rights vs National Prosperity"
     web_url: https://drive.google.com/file/d/14V0sca_PEEXoYyCQR4Le2W0fTMFA1kmw/view
