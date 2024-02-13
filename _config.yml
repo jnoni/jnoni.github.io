@@ -128,10 +128,20 @@ misc:
     authors: There can be no reconciliation and healing without being honest about the past. 
     location: I wrote this article for my school newspaper. Drawing inspiration from Faiz Ahmed Faiz’s iconic poem ‘Hum Dekhenge’, I call out the oppressors of every age, ideology and society. I brought together themes such as religious segregation, India's colonial struggle, the history of genocide behind America's famous holidays, Churchill and his war crimes, how Colonial Opressors and Allied Powers distorted and trivialized and whitewashed history (NOT figuratively) leaving the future generations disoriented and uprooted.
 
+  - name: "Climate Literacy"
+    web_url: https://rupaljaincs.github.io/2024/02/08/ClimateLiteracy/
+    authors: Empowering voices of Women - The Othered Half 
+    location: Women play a critical role in their family’s economic affairs, they are uniquely positioned to be vital agents of sustainability in their communities. Thus, including them in leading the mission against climate injustice is only natural.
+
   - name: "Nuclear Proliferation and AI Governance"
     web_url: https://rupaljaincs.github.io/2024/02/11/AINuclear/
     authors: By your truly! 
     location: Having recently watched Nolan’s Oppenheimer, naturally, I have to address the lessons that the history of Nuclear Arms Race gives us for AI. Nuclear weapons are analogous to AI in many ways, so this period may hold lessons for AI governance.
+
+  - name: "Climate Injustice, Colonialism, and various Intersectionalities"
+    web_url: https://rupaljaincs.github.io/2024/02/12/climatecolonialism/
+    authors: Coming soon! Stay Tuned!
+    location: A quick sneak peek: Climate emergency is a legacy of colonialism. To educate the masses and spark a public discourse, I want to create an interactive digital handbook. And possibly also cover some vault-tracks within the project to understand disproportionate impacts of climate on previously colonized nations and indigenous peoples, focusing on India - pretty much the only thriving ancient civilisation known to mankind, second to Africa. Eventually, I want to make this handbook a part of the United Nations' campaign.
 
   - name: "The One-Way Train to Doomsville"
     web_url: https://rupaljaincs.github.io/2024/01/05/AIgovIntro/
